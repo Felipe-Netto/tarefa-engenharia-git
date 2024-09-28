@@ -11,4 +11,4 @@ O projeto tem como finalidade praticar as etapas de:
 3. Conexão do repositório local a um repositório remoto no GitHub.
 4. Uso de comandos básicos do Git para gerenciar versões de código.
 
-mudando no desenvolvimento
+mudanca na main
